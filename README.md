@@ -21,9 +21,7 @@
 
 ## 🚨 About Repo :-
 
-This repository contains the code for how to use and implement three.js models into our code. I have created three different folders with Each folder containig code for - importing Three.js models through CDN links,
-
-using three.js in [ npm + vite ] project and using three.js in [ npm + vite + React ] project. Follow to Following Quick Start guide to run this code on your local machine to see how it works.
+This repository contains the code for how to use and implement three.js models into our code. I have created three different folders with Each folder containig code for - importing Three.js models through CDN links, using three.js in [ npm + vite ] project and using three.js in [ npm + vite + React ] project. Follow to Following Quick Start guide to run this code on your local machine to see how it works.
 
 ## 🤸 Quick Start :-
 
@@ -39,7 +37,7 @@ Make sure you have the following installed on your machine:
 
 **Cloning the Repository**
 
-Open command prompt -> cd desktop -> 
+Open command prompt -> type 'cd desktop' -> 
 
 ```bash
 git clone https://github.com/Rukh-Khan/3js-models-starter.git
@@ -47,7 +45,9 @@ git clone https://github.com/Rukh-Khan/3js-models-starter.git
 close command prompt -> open the created folder in vs code
 
 ## 1) Folder-1 (basic)
-Go to basic folder -> Simply, Run the index.html file ( Right click -> Open with live server ) and file is running into your broweser, have a look 
+Go to basic folder -> Simply, Run the index.html file ( Right click -> Open with live server ) 
+
+AND file is running into your browser, have a look !
 
 ## 2) Folder-2 ( vite )
 
